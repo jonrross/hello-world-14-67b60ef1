@@ -7,7 +7,7 @@ const HomePage = () => {
       <Card className="bg-white shadow-xl border-0 p-12 max-w-2xl w-full">
         <div className="text-center">
           <h1 className="text-6xl font-light text-slate-800 tracking-wide">
-            hello world 14
+            hello world 15
           </h1>
         </div>
       </Card>
